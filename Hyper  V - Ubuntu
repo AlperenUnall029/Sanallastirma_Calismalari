@@ -17,3 +17,16 @@ Microsoft Hyper-V kullanılarak Ubuntu işletim sistemi için sanal makine oluş
 - Microsoft Hyper-V
 - Ubuntu
 - Firefox
+
+## Ekran Görüntüleri
+
+### Hyper-V Yönetim Ekranı
+![Hyper-V Yönetim Ekranı](../Hyper-V-Ubuntu/Hyper-V%20%2B%20Ubuntu%20(Main%20Page).png)
+### Ubuntu Giriş Ekranı
+![Ubuntu Giriş Ekranı](Hyper-V%20%2B%20Ubuntu%20(Login).png)
+### Ubuntu Masaüstü
+![Ubuntu Masaüstü](Hyper-V%20%2B%20Ubuntu%20(Desktop).jpg)
+### Firefox Test 1
+![Firefox Test 1](Hyper-V%20%2B%20Ubuntu%20(Test1).jpg)
+### Firefox Test 2
+![Firefox Test 2](Hyper-V%20%2B%20Ubuntu%20(Test2).jpg)
