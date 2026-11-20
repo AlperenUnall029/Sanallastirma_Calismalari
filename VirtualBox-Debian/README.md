@@ -21,9 +21,13 @@ sanal makine oluşturulmuş ve işletim sistemi kurulumu gerçekleştirilmiştir
 
 ## Ekran Görüntüleri
 
-![VirtualBox Ayarları](VirtualBox%20%2B%20Debian%20(main_screen).png)
-![Debian Giriş Ekranı](VirtualBox%20%2B%20Debian%20(Login).png)
-![Debian Masaüstü](VirtualBox%20%2B%20Debian%20(Desktop).png)
-![Firefox Test 1](VirtualBox%20%2B%20Debian%20(Test_1).png)
-
-![Firefox Test 2](VirtualBox%20%2B%20Debian%20(Test_2).png)
+### VirtualBox Ayarları
+![VirtualBox Ayarları](../Oracle_VirtualBox%20%2B%20Debian/VirtualBox%20%2B%20Debian%20(main_screen).png)
+### Debian Giriş Ekranı
+![Debian Giriş Ekranı](../Oracle_VirtualBox%20%2B%20Debian/VirtualBox%20%2B%20Debian%20(Login).png)
+### Debian Masaüstü
+![Debian Masaüstü](../Oracle_VirtualBox%20%2B%20Debian/VirtualBox%20%2B%20Debian%20(Desktop).png)
+### Firefox Test 1
+![Firefox Test 1](../Oracle_VirtualBox%20%2B%20Debian/VirtualBox%20%2B%20Debian%20(Test_1).png)
+### Firefox Test 2
+![Firefox Test 2](../Oracle_VirtualBox%20%2B%20Debian/VirtualBox%20%2B%20Debian%20(Test_2).png)
