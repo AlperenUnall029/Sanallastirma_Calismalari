@@ -18,3 +18,12 @@ sanal makine oluşturulmuş ve işletim sistemi kurulumu gerçekleştirilmiştir
 - Oracle VirtualBox
 - Debian 13
 - Firefox
+
+## Ekran Görüntüleri
+
+![VirtualBox Ayarları](VirtualBox%20%2B%20Debian%20(main_screen).png)
+![Debian Giriş Ekranı](VirtualBox%20%2B%20Debian%20(Login).png)
+![Debian Masaüstü](VirtualBox%20%2B%20Debian%20(Desktop).png)
+![Firefox Test 1](VirtualBox%20%2B%20Debian%20(Test_1).png)
+
+![Firefox Test 2](VirtualBox%20%2B%20Debian%20(Test_2).png)
