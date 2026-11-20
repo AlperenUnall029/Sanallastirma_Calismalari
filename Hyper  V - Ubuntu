@@ -1,0 +1,19 @@
+# Hyper-V ile Ubuntu Kurulumu
+
+## Proje Hakkında
+
+Microsoft Hyper-V kullanılarak Ubuntu işletim sistemi için sanal makine oluşturulmuş ve işletim sistemi kurulumu gerçekleştirilmiştir.
+
+## Yapılan Çalışmalar
+
+- Hyper-V üzerinde sanal makine oluşturuldu.
+- Ubuntu işletim sistemi kuruldu.
+- Sanal makine başlatıldı ve yapılandırıldı.
+- Ubuntu masaüstü ortamı çalıştırıldı.
+- Firefox üzerinden internet erişimi test edildi.
+
+## Kullanılan Teknolojiler
+
+- Microsoft Hyper-V
+- Ubuntu
+- Firefox
